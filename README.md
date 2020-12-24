@@ -1,4 +1,5 @@
-NodeJS MongoDB Demo
+## NodeJS MongoDB Demo. 
+MongoDB exercise.
 
 Farm-Stand-App is an example of NodeJS application that works with MongoDB.
 
